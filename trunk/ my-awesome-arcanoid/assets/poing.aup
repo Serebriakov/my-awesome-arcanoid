@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="poing_data" version="1.3.0" audacityversion="1.3.13-beta" sel0="4.4931065760" sel1="4.4931065760" vpos="0" h="0.0000000000" zoom="86.1328125000" rate="22050.0">
+	<tags/>
+	<wavetrack name="Audio Track" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="-0.12997732">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="101939">
+				<waveblock start="0">
+					<simpleblockfile filename="e000040a.au" len="101939" min="-0.97367" max="0.981185" rms="0.158818"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="4.623038548753" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Label Track" numlabels="2" height="73" minimized="0">
+		<label t="0.04643991" t1="0.62693878" title="1"/>
+		<label t="0.68498866" t1="0.99845805" title="2"/>
+	</labeltrack>
+</project>
